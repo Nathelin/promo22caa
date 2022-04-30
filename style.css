@@ -1,0 +1,31 @@
+.loading{
+    text-align: center;
+    padding-top: 200px;
+    opacity: 0.9;
+    background-color: brown;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+
+.loading.visible {
+    display: block;
+}
+
+.oscuro {
+    background-image: url("assets/miscellaneous/fondo.jpg");
+    background-repeat: repeat;
+
+}
+
+.inicio{
+    background-image: url("assets/miscellaneous/fondo2.jpg");
+    background-repeat: repeat;
+}
+
+small{
+    color:gray;
+}
