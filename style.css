@@ -18,12 +18,14 @@
 .oscuro {
     background-image: url("assets/miscellaneous/fondo.jpg");
     background-repeat: repeat;
+    background-attachment: fixed;
 
 }
 
 .inicio{
     background-image: url("assets/miscellaneous/fondo2.jpg");
     background-repeat: repeat;
+    background-attachment: fixed;
 }
 
 small{
